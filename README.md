@@ -1,8 +1,14 @@
 19.7.2 PetFriendsApiTests
 
-Проект api тестирования сервиса PetFriends. Содержание проекта: В файле "dats.py" валидные значения email и password к учетной записи на PetFriends. 
+Проект api тестирования сервиса PetFriends. 
 
-В файле "invalid_data.py" невалидные значения email и password. В файле "api.py" библиотека методов к веб приложению Pet Friends. 
+Содержание проекта: 
+
+В файле "data.py" валидные значения email и password к учетной записи на PetFriends. 
+
+В файле "invalid_data.py" невалидные значения email и password. 
+
+В файле "api.py" библиотека методов к веб приложению Pet Friends. 
 
 В папке "tests" содержатся все проведенные тесты:
 
